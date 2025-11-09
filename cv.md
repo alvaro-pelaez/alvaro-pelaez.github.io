@@ -7,7 +7,7 @@ title: CV
 # Experiencia Laboral
 
 ## **Babel Group** 
-**Software Engineer - Fullstack - Competent** 
+**Software Engineer - Fullstack - Competent**
 Julio 2021 – Presente
 - Análisis, mantenimiento y evolutivo de aplicaciones del sector público estatal para la Sede Electrónica y aplicaciones de Intranet basadas en tecnologías **J2EE**.  
 - Desarrollo de aplicaciones **Java** con **microservicios** para el sector privado de salud, creando un sustituto completo del sistema de gestión actual de la aseguradora.  

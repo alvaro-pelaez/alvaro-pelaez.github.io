@@ -1,7 +1,7 @@
-title: ""
+title: "Álvaro Peláez Piñera"
 description: ""
 baseurl: ""
-url: ""
+url: "https://alvaro-pelaez.github.io/"
 
 exclude:
   - demo/
@@ -33,3 +33,22 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+author:
+  name: Álvaro Peláez Piñera
+  email: alvaropelaez.es@gmail.com
+photo: assets/images/profile.jpg
+
+#joblines:
+#  - Babel Group
+#  - Software Engineer - Fullstack - Competent
+#adresss: Oviedo, Asturias
+
+# profile links
+profile:
+  facebook: https://www.facebook.com/alvaro.pelaez
+  bluesky: https://bsky.app/profile/fichi.bsky.social
+  instagram: https://www.instagram.com/alvaro___85
+  linkedin: https://www.linkedin.com/in/alvaropelaezpinera
+  github: https://github.com/alvaro-pelaez
+  

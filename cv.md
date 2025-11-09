@@ -79,9 +79,9 @@ Eclipse, Android Studio, Visual Studio Code
 
 # Idiomas
 | Idioma | Comprensión Escrita | Auditiva / Oral / Escrita |
-|---------|--------------------|----------------------------|
-| **Castellano** | Lengua materna | — |
-| **Inglés** | Media/Alta | Baja |
+
+**Castellano** : Lengua materna
+**Inglés** : Nivel Medio
 
 ---
 

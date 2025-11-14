@@ -7,7 +7,6 @@ title: CV
 
 ## Datos de contacto
 
-**Teléfono:** 650 894 044  
 **Correo electrónico:** [alvaropelaez.es@gmail.com](mailto:alvaropelaez.es@gmail.com)  
 
 ---

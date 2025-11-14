@@ -3,6 +3,8 @@ description: ""
 baseurl: ""
 url: "https://alvaro-pelaez.github.io/"
 
+include: [".well-known"]
+
 exclude:
   - demo/
   - cvless.gemspec
